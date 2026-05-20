@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Alexandria%2C%20Egypt-D4622A?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/Open%20to%20Work-1B2A4A?style=for-the-badge&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrwan--awad-1B2A4A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrwan-awad-406285381)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrwan--awad-1B2A4A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrwan-awad-4062a5381)
 [![GitHub](https://img.shields.io/badge/GitHub-Mrwanawad-D4622A?style=flat-square&logo=github&logoColor=white)](https://github.com/Mrwanawad)
 [![Email](https://img.shields.io/badge/Email-mrwaanawad%40gmail.com-1B2A4A?style=flat-square&logo=gmail&logoColor=white)](mailto:mrwaanawad@gmail.com)
 
@@ -141,19 +141,6 @@ Beyond engineering, an accomplished **Principal Technical Trainer** with a stron
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mrwanawad&show_icons=true&theme=transparent&title_color=D4622A&icon_color=D4622A&text_color=1B2A4A&border_color=D4622A" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrwanawad&layout=compact&theme=transparent&title_color=D4622A&text_color=1B2A4A&border_color=D4622A" height="160"/>
-
-</div>
-
----
-
-<div align="center">
 
 ![](https://img.shields.io/badge/Python-1B2A4A?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/FastAPI-D4622A?style=flat-square&logo=fastapi&logoColor=white)
@@ -163,6 +150,6 @@ Beyond engineering, an accomplished **Principal Technical Trainer** with a stron
 ![](https://img.shields.io/badge/Docker-D4622A?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/AWS-1B2A4A?style=flat-square&logo=amazonaws&logoColor=white)
 
-*Building AI systems that ship to production.*
+*Building Production-Ready AI Systems.*
 
 </div>
