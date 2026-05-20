@@ -9,7 +9,6 @@
 
 ![](https://img.shields.io/badge/AI%20%26%20Backend%20Engineer-1B2A4A?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/Alexandria%2C%20Egypt-D4622A?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/Open%20to%20Work-1B2A4A?style=for-the-badge&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mrwan--awad-1B2A4A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrwan-awad-4062a5381)
 [![GitHub](https://img.shields.io/badge/GitHub-Mrwanawad-D4622A?style=flat-square&logo=github&logoColor=white)](https://github.com/Mrwanawad)
