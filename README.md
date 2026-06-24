@@ -2,12 +2,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Georgia&size=32&duration=3000&pause=1000&color=D4622A&center=true&vCenter=true&width=700&lines=Mrwan+Ibrahim+Hassan;Senior+AI+%26+SW+Engineer;LLM+Systems+%7C+Agentic+AI+%7C+SaaS+Deployment">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=32&duration=3000&pause=1000&color=D4622A&center=true&vCenter=true&width=700&lines=Mrwan+Ibrahim+Hassan;Senior+AI+%26+Backend+Engineer;LLM+Systems+%7C+Agentic+AI+%7C+SaaS+Deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=32&duration=3000&pause=1000&color=D4622A&center=true&vCenter=true&width=700&lines=Mrwan+Ibrahim+Hassan;Senior+AI+%26+SW+Engineer;LLM+Systems+%7C+Agentic+AI+%7C+SaaS+Deployment" alt="Typing SVG" />
 </picture>
 
 <br/>
 
-![](https://img.shields.io/badge/AI%20%26%20Backend%20Engineer-1B2A4A?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/AI%20%26%SW%20Engineer-1B2A4A?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/Alexandria%2C%20Egypt-D4622A?style=for-the-badge&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mrwan--awad-1B2A4A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrwan-awad-4062a5381)
