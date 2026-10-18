@@ -9,15 +9,15 @@
 
 <br/><br/>
 
-<img src="assets/buttons/role.svg" alt="AI & LLMs Engineer" height="40" />
-<img src="assets/buttons/location.svg" alt="Alexandria, Egypt" height="40" />
+<img src="https://raw.githubusercontent.com/Mrwanawad/Mrwanawad/HEAD/assets/buttons/role.svg" alt="AI & LLMs Engineer" height="40" />
+<img src="https://raw.githubusercontent.com/Mrwanawad/Mrwanawad/HEAD/assets/buttons/location.svg" alt="Alexandria, Egypt" height="40" />
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/mrwan-awad-4062a5381"><img src="assets/buttons/linkedin.svg" alt="LinkedIn" height="40" /></a>
-<a href="https://github.com/Mrwanawad"><img src="assets/buttons/github.svg" alt="GitHub" height="40" /></a>
-<a href="https://huggingface.co/Mrwaan"><img src="assets/buttons/huggingface.svg" alt="Hugging Face" height="40" /></a>
-<a href="mailto:mrwaanawad@gmail.com"><img src="assets/buttons/email.svg" alt="Email" height="40" /></a>
+<a href="https://linkedin.com/in/mrwan-awad-4062a5381"><img src="https://raw.githubusercontent.com/Mrwanawad/Mrwanawad/HEAD/assets/buttons/linkedin.svg" alt="LinkedIn" height="40" /></a>
+<a href="https://github.com/Mrwanawad"><img src="https://raw.githubusercontent.com/Mrwanawad/Mrwanawad/HEAD/assets/buttons/github.svg" alt="GitHub" height="40" /></a>
+<a href="https://huggingface.co/Mrwaan"><img src="https://raw.githubusercontent.com/Mrwanawad/Mrwanawad/HEAD/assets/buttons/huggingface.svg" alt="Hugging Face" height="40" /></a>
+<a href="mailto:mrwaanawad@gmail.com"><img src="https://raw.githubusercontent.com/Mrwanawad/Mrwanawad/HEAD/assets/buttons/email.svg" alt="Email" height="40" /></a>
 
 </div>
 
@@ -36,22 +36,44 @@ My work spans **fully autonomous voice agents**, **HIPAA-compliant clinical-work
 | **Shipped** | SaaS products across ML, RAG, Computer Vision, NLP, and Gen AI |
 | **Domains** | Healthcare (HIPAA) · ERP Platforms · Developer Tooling · EdTech |
 | **Leadership** | Managed AI engineers · Principal Technical Trainer · Corporate AI Consultant |
-| **Education** | B.Sc. in AI & Generative AI, Kafrelsheikh University (2021 – 2025) |
 | **Languages** | Arabic (native) · English (fluent) |
 
 ---
 
-## What I Build
+## Experience
 
-| Capability | What I deliver | Proof |
+**Senior AI & LLMs Engineer** — Akwad.ai SW Solutions, Saudi Arabia (On-site) `2026 – Present`
+> - Managed and architected internal and external AI solutions integrated into live, in-production ERPs.
+> - Built **Coject Agent** for the Coject Platform: a fully integrated AI agent wired with tools and skills that serves product owners and project managers by generating project assets.
+> - Delivered **CojectAI Copilot**: a live, plugged-in multi-agent coding assistant for frontend and backend developers working on the Coject React component framework.
+
+**AI Architect** — Synergex Med, California, USA (Remote) `2025 – 2026`
+> - Architected and built an autonomous, end-to-end, HIPAA-compliant AI agent that automates clinical workflows across 15+ clinic locations in the USA.
+> - Integrated the agent with AWS backend services to detect call escalations and HIPAA violations.
+
+**Senior AI/Backend Engineer** — dentalbase.ai, Atlanta, Georgia, USA (Remote) `2024 – 2025`
+> - Built the speech, voice-cloning, and backend services of **Dentivoice**, a fully autonomous, HIPAA-compliant AI receptionist handling calls and appointment management 24/7.
+> - Developed backend and business services for **DentiMetrics**, an AI performance-analytics platform for U.S. dental practices.
+
+**Senior Full Stack AI Engineer** — EasyWay SW Solutions, Egypt (On-site) `2022 – 2024`
+> - Managed the full technical life cycle of AI-powered ERP systems built for medium-scale businesses.
+> - Shipped AI features including chatbots, ML and DL models, and computer vision capabilities such as live object detection and image segmentation.
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
 |---|---|---|
-| **Autonomous Voice Agents** | 24/7 AI receptionists with speech-to-text, LLM reasoning, text-to-speech, voice cloning, and appointment management | Dentivoice |
-| **Agentic AI & Copilots** | Tool- and skill-equipped agents and multi-agent systems wired into live products and ERPs | Coject Agent, CojectAI Copilot |
-| **Compliance & Call Intelligence** | Automated monitoring of clinical calls for escalations, professionalism, and HIPAA violations | AI-Powered QA, Synergex Med agent |
-| **RAG & Knowledge Systems** | Retrieval-grounded assistants on vector stores, measured with RAGAS and DeepEval | TAMKEEN, HR Assistant |
-| **LLM Fine-Tuning** | Practice-specific models via PEFT (LoRA, QLoRA), Unsloth, LlamaFactory, and SageMaker | Dentimetrics |
-| **Computer Vision in Production** | Live object detection and image segmentation inside AI-powered ERPs | EasyWay ERP |
-| **Cloud & MLOps** | Containerized, CI/CD-driven deployments on AWS with Docker, Kubernetes, and Terraform | All SaaS products |
+| **Coject Agent** | In-platform AI agent that automates the work of product owners and project managers, generating SOWs, PRD plans, and UI/UX mockups | Agentic AI · Tool & Skill Calling · SaaS |
+| **CojectAI Copilot** | Multi-agent coding assistant that creates modules and files, generates code, and implements systems end to end on the Coject React framework | Multi-Agent Systems · Code Generation · React |
+| **Dentivoice** | Autonomous AI dental receptionist handling patient calls, scheduling, and 24/7 support | FastAPI · Anthropic · OpenAI · LangChain · LangGraph · Whisper · ElevenLabs |
+| **Dentimetrics** | AI performance-evaluation system deployed across multiple U.S. dental practices, with QLoRA fine-tuning for practice-specific insights | FastAPI · Django · Anthropic · QLoRA |
+| **AI-Powered QA** | SaaS system monitoring 100% of clinical calls for HIPAA compliance and professionalism, replacing manual QA | FastAPI · Anthropic · Whisper · PostgreSQL · Redis · AWS |
+| **TAMKEEN** | Inclusive learning platform for people with disabilities, with RAG-powered chatbots | FastAPI · RAG · TTS · STT |
+| **HR-End-to-End-Assistant** | AI CV analyzer supporting multi-provider LLMs | Groq · Mistral · Streamlit · FastAPI · Pydantic |
+| **Call-QA-Analyzer** | Automated call quality analysis pipeline | Anthropic · FastAPI |
+| **Football-AI-Agent** | Agentic AI system for football analytics | OpenAI · FastAPI |
 
 ---
 
@@ -118,12 +140,6 @@ My work spans **fully autonomous voice agents**, **HIPAA-compliant clinical-work
 ![MLflow](https://img.shields.io/badge/MLflow-D4622A?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-1B2A4A?style=for-the-badge&logo=weightsandbiases&logoColor=white)
 
-**Voice AI & Speech**
-
-![Whisper STT](https://img.shields.io/badge/Whisper%20STT-1B2A4A?style=for-the-badge&logo=openai&logoColor=white)
-![ElevenLabs TTS](https://img.shields.io/badge/ElevenLabs%20TTS-D4622A?style=for-the-badge&logoColor=white)
-![Voice Cloning](https://img.shields.io/badge/Voice%20Cloning-1B2A4A?style=for-the-badge&logoColor=white)
-
 **Deep Learning & Machine Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1B2A4A?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -137,35 +153,34 @@ My work spans **fully autonomous voice agents**, **HIPAA-compliant clinical-work
 ![H2O](https://img.shields.io/badge/H2O-1B2A4A?style=for-the-badge&logoColor=white)
 ![Auto-sklearn](https://img.shields.io/badge/Auto--sklearn-D4622A?style=for-the-badge&logoColor=white)
 ![Imbalanced-learn](https://img.shields.io/badge/Imbalanced--learn-1B2A4A?style=for-the-badge&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-D4622A?style=for-the-badge&logo=mlflow&logoColor=white)
 
-**Computer Vision & NLP**
+**Voice AI, Computer Vision & NLP**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-1B2A4A?style=for-the-badge&logo=opencv&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-D4622A?style=for-the-badge&logoColor=white)
-![Torchvision](https://img.shields.io/badge/Torchvision-1B2A4A?style=for-the-badge&logo=pytorch&logoColor=white)
-![Diffusers](https://img.shields.io/badge/Diffusers-D4622A?style=for-the-badge&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-1B2A4A?style=for-the-badge&logoColor=white)
-![DistilBERT](https://img.shields.io/badge/DistilBERT-D4622A?style=for-the-badge&logoColor=white)
-![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-1B2A4A?style=for-the-badge&logoColor=white)
-![GLM](https://img.shields.io/badge/GLM-D4622A?style=for-the-badge&logoColor=white)
+![Whisper STT](https://img.shields.io/badge/Whisper%20STT-1B2A4A?style=for-the-badge&logo=openai&logoColor=white)
+![ElevenLabs TTS](https://img.shields.io/badge/ElevenLabs%20TTS-D4622A?style=for-the-badge&logoColor=white)
+![Voice Cloning](https://img.shields.io/badge/Voice%20Cloning-1B2A4A?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-D4622A?style=for-the-badge&logo=opencv&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-1B2A4A?style=for-the-badge&logoColor=white)
+![Torchvision](https://img.shields.io/badge/Torchvision-D4622A?style=for-the-badge&logo=pytorch&logoColor=white)
+![Diffusers](https://img.shields.io/badge/Diffusers-1B2A4A?style=for-the-badge&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-D4622A?style=for-the-badge&logoColor=white)
+![DistilBERT](https://img.shields.io/badge/DistilBERT-1B2A4A?style=for-the-badge&logoColor=white)
+![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-D4622A?style=for-the-badge&logoColor=white)
+![GLM](https://img.shields.io/badge/GLM-1B2A4A?style=for-the-badge&logoColor=white)
 
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-1B2A4A?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-D4622A?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-1B2A4A?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-D4622A?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-1B2A4A?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-D4622A?style=for-the-badge&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-1B2A4A?style=for-the-badge&logoColor=white)
-![ngrok](https://img.shields.io/badge/ngrok-D4622A?style=for-the-badge&logo=ngrok&logoColor=white)
-
-**Frontend**
+**Backend & Frontend**
 
 ![React](https://img.shields.io/badge/React-1B2A4A?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-D4622A?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1B2A4A?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-D4622A?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1B2A4A?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-D4622A?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1B2A4A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-D4622A?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-1B2A4A?style=for-the-badge&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-D4622A?style=for-the-badge&logoColor=white)
+![ngrok](https://img.shields.io/badge/ngrok-1B2A4A?style=for-the-badge&logo=ngrok&logoColor=white)
 
 **Databases**
 
@@ -198,43 +213,6 @@ My work spans **fully autonomous voice agents**, **HIPAA-compliant clinical-work
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Coject Agent** | In-platform AI agent that automates the work of product owners and project managers, generating SOWs, PRD plans, and UI/UX mockups | Agentic AI · Tool & Skill Calling · SaaS |
-| **CojectAI Copilot** | Multi-agent coding assistant that creates modules and files, generates code, and implements systems end to end on the Coject React framework | Multi-Agent Systems · Code Generation · React |
-| **Dentivoice** | Autonomous AI dental receptionist handling patient calls, scheduling, and 24/7 support | FastAPI · Anthropic · OpenAI · LangChain · LangGraph · Whisper · ElevenLabs |
-| **Dentimetrics** | AI performance-evaluation system deployed across multiple U.S. dental practices, with QLoRA fine-tuning for practice-specific insights | FastAPI · Django · Anthropic · QLoRA |
-| **AI-Powered QA** | SaaS system monitoring 100% of clinical calls for HIPAA compliance and professionalism, replacing manual QA | FastAPI · Anthropic · Whisper · PostgreSQL · Redis · AWS |
-| **TAMKEEN** | Inclusive learning platform for people with disabilities, with RAG-powered chatbots | FastAPI · RAG · TTS · STT |
-| **HR-End-to-End-Assistant** | AI CV analyzer supporting multi-provider LLMs | Groq · Mistral · Streamlit · FastAPI · Pydantic |
-| **Call-QA-Analyzer** | Automated call quality analysis pipeline | Anthropic · FastAPI |
-| **Football-AI-Agent** | Agentic AI system for football analytics | OpenAI · FastAPI |
-
----
-
-## Experience
-
-**Senior AI & LLMs Engineer** — Akwad.ai SW Solutions, Saudi Arabia (On-site) `2026 – Present`
-> - Managed and architected internal and external AI solutions integrated into live, in-production ERPs.
-> - Built **Coject Agent** for the Coject Platform: a fully integrated AI agent wired with tools and skills that serves product owners and project managers by generating project assets.
-> - Delivered **CojectAI Copilot**: a live, plugged-in multi-agent coding assistant for frontend and backend developers working on the Coject React component framework.
-
-**AI Architect** — Synergex Med, California, USA (Remote) `2025 – 2026`
-> - Architected and built an autonomous, end-to-end, HIPAA-compliant AI agent that automates clinical workflows across 15+ clinic locations in the USA.
-> - Integrated the agent with AWS backend services to detect call escalations and HIPAA violations.
-
-**Senior AI/Backend Engineer** — dentalbase.ai, Atlanta, Georgia, USA (Remote) `2024 – 2025`
-> - Built the speech, voice-cloning, and backend services of **Dentivoice**, a fully autonomous, HIPAA-compliant AI receptionist handling calls and appointment management 24/7.
-> - Developed backend and business services for **DentiMetrics**, an AI performance-analytics platform for U.S. dental practices.
-
-**Senior Full Stack AI Engineer** — EasyWay SW Solutions, Egypt (On-site) `2022 – 2024`
-> - Managed the full technical life cycle of AI-powered ERP systems built for medium-scale businesses.
-> - Shipped AI features including chatbots, ML and DL models, and computer vision capabilities such as live object detection and image segmentation.
-
----
-
 ## Instructing & Mentorship
 
 **Corporate AI Consultant & Trainer** — Alexcont · GASCO · Titan Cement Egypt · aleximportexport `2024 – 2026`
@@ -243,12 +221,6 @@ My work spans **fully autonomous voice agents**, **HIPAA-compliant clinical-work
 **Lead Instructor & Project Supervisor** — DEPI Round 4 & 5 (Digital Egypt Pioneers Initiative) `2025 – 2026`
 
 **ISTQB SW Engineering Instructor** — INTRAST x Orange Digital Center `2023 – 2025`
-
----
-
-## Education
-
-**B.Sc. in Artificial Intelligence and Generative AI** (Minor in Biomedical Engineering) — Faculty of Artificial Intelligence, Kafrelsheikh University `2021 – 2025`
 
 ---
 
