@@ -113,6 +113,7 @@ My work spans **fully autonomous voice agents**, **HIPAA-compliant clinical-work
 ![FastMCP](https://img.shields.io/badge/FastMCP-1B2A4A?style=for-the-badge&logoColor=white)
 ![Temporal](https://img.shields.io/badge/Temporal-D4622A?style=for-the-badge&logo=temporal&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1B2A4A?style=for-the-badge&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-D4622A?style=for-the-badge&logoColor=white)
 
 **RAG, Vector Stores & Evaluation**
 
